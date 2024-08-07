@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Alto custo de implementação e falta de integração com sistemas existentes.",
-                afirmacao: "Os principais desafios na implementação de inteligência artificial em pequenas empresas incluem o alto custo de implementação e a falta de integração com sistemas existentes.
+                afirmacao: "Os principais desafios na implementação de inteligência artificial em pequenas empresas incluem o alto custo de implementação e a falta de integração com sistemas existentes."
 
 
             },
